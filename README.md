@@ -6,8 +6,6 @@ O diferencial desta ferramenta não é apenas armazenar texto, mas garantir a **
 
 
 
-[Image of software requirements engineering lifecycle]
-
 
 ## 🚀 Funcionalidades Principais
 
@@ -37,3 +35,4 @@ O sistema aplica os princípios de:
    ```bash
    git clone [https://github.com/brunoavelino1/System-Requirement-Management.git](https://github.com/brunoavelino1/System-Requirement-Management.git)
    cd System-Requirement-Management
+   ```
