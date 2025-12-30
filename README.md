@@ -1,10 +1,15 @@
 # 🛠️ System Requirement Management
 
-**ReqAtomic ISO** é uma ferramenta leve e robusta para Gestão de Requisitos, projetada para transformar Backlogs genéricos em Especificações de Requisitos de Software (SRS) profissionais, seguindo as diretrizes da norma **ISO/IEC/IEEE 29148**.
+<p align="center">
+  <img src="https://img.shields.io/github/languages/top/brunoavelino1/System-Requirement-Management?style=for-the-badge&color=blue" alt="Python">
+  <img src="https://img.shields.io/github/repo-size/brunoavelino1/System-Requirement-Management?style=for-the-badge" alt="Repo Size">
+  <img src="https://img.shields.io/github/license/brunoavelino1/System-Requirement-Management?style=for-the-badge" alt="License">
+  <img src="https://img.shields.io/badge/ISO-29148-orange?style=for-the-badge" alt="ISO 29148">
+</p>
+
+**System Requirement Manager** é uma ferramenta leve e robusta para Gestão de Requisitos, projetada para transformar Backlogs genéricos em Especificações de Requisitos de Software (SRS) profissionais, seguindo as diretrizes da norma **ISO/IEC/IEEE 29148**.
 
 O diferencial desta ferramenta não é apenas armazenar texto, mas garantir a **qualidade semântica** dos requisitos através de validações automáticas de atomicidade e unicidade.
-
-
 
 
 ## 🚀 Funcionalidades Principais
@@ -33,6 +38,8 @@ O sistema aplica os princípios de:
 
 1. **Clone o repositório:**
    ```bash
-   git clone [https://github.com/brunoavelino1/System-Requirement-Management.git](https://github.com/brunoavelino1/System-Requirement-Management.git)
+   git clone https://github.com/brunoavelino1/System-Requirement-Management.git
    cd System-Requirement-Management
+   pip install -r requirements.txt
+   python app.py
    ```
